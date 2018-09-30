@@ -6,6 +6,8 @@ To build and run these tests, make sure environment is setup as per the instruct
 
 ## How to Build and Run from command line
 
+* Download firefox webdriver [geckodriver](https://github.com/mozilla/geckodriver/releases/tag/v0.21.0) and export to the PATH environment variable.
+
 * Clone the project and cd into the frontend folder
 	```
 	$ git clone git@github.com:iahmad9/weatherapp-tests.git
