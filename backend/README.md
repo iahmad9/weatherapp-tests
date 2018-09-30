@@ -3,7 +3,7 @@ These are the tests to verify the functionality of RESTful API endpoint weather-
 
 https://< BASEURL >/api
 
-where BASEURL is server where weather-app-api service is hosted
+where BASEURL is a server address where weather-app-api service is hosted
 
 
 These tests are mostly data driven, so that these can be extended by simply adding more test data sets to verify different permutations of post code and error messages etc.
