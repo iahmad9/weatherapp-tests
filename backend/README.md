@@ -1,7 +1,7 @@
 # Automated Tests For Backend APIs
 These are the tests to verify the functionality of RESTful API endpoint weather-app-api for weather app exposed at
 
-https://<BASEURL>/api
+https://< BASEURL >/api
 
 where BASEURL is server where weather-app-api service is hosted
 
