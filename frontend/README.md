@@ -4,6 +4,8 @@ These are user acceptance tests, written following a BDD approach. These tests f
 
 To build and run these tests, make sure environment is setup as per the instructions given in README in parent folder of this project.
 
+For this project, Firefox webdriver is used but this can be repalced with HtmlUnitDriver for headless and faster execution.
+
 ## How to Build and Run from command line
 
 * Download firefox webdriver [geckodriver](https://github.com/mozilla/geckodriver/releases/tag/v0.21.0) and export to the PATH environment variable.
